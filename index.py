@@ -1,3 +1,7 @@
+# ****************************************************************
+# Data distribution converter from block to cyclic and vise versa
+# ****************************************************************
+
 import numpy as np
 import math
 
@@ -115,3 +119,8 @@ for i in range(len(N)):
 
 print('In S the M block distibution of X is converted to the cyclic distribution of X')
 print('S=',S)    
+
+
+#******************
+# By Samar Aseeri
+#******************
